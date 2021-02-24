@@ -11,3 +11,5 @@ let path = '~/Your/Path/Here'
 
 ```
 to the path you want
+
+OR if you want to change the source of the memes, change dankmemes to your desired subreddit
