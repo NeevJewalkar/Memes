@@ -1,0 +1,19 @@
+{
+  "name": "rmemes",
+  "version": "1.0.0",
+  "description": "Memes taken from r/dankmemes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeevJewalkar/Memes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeevJewalkar/Memes/issues"
+  },
+  "homepage": "https://github.com/NeevJewalkar/Memes#readme"
+}
